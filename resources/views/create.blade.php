@@ -13,7 +13,7 @@
     }
   </style>
 
-    <title>Document</title>
+    <title>Create Page</title>
 </head>
 <body>
     <div class="container">

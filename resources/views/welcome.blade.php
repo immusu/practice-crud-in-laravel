@@ -16,7 +16,7 @@
     }
   </style>
 
-    <title>Document</title>
+    <title>Home Page</title>
 </head>
 <body>
     <div class="container">
